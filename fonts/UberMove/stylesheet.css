@@ -1,0 +1,36 @@
+@font-face {
+    font-family: 'UberMoveMedium';
+    src: url('UberMoveMedium.otf');
+    src: local('UberMoveMedium'), local('UberMoveMedium'),
+        url('UberMoveMedium.otf') format('opentype'),
+    font-weight: normal;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'UberMoveBold';
+    src: url('UberMoveBold.otf');
+    src: local('UberMoveBold'), local('UberMoveBold'),
+        url('UberMoveBold.otf') format('opentype'),
+    font-weight: bold;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'UberMoveLight';
+    src: url('UberMove-Light.ttf');
+    src: local('UberMoveLight'), local('UberMoveLight'),
+        url('UberMove-Light.ttf') format('truetype'),
+    font-weight: lighter;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'UberMoveRegular';
+    src: url('UberMove-Regular.ttf');
+    src: local('UberMoveRegular'), local('UberMoveRegular'),
+        url('UberMove-Regular.ttf') format('truetype'),
+    font-weight: 400;
+    font-style: italic;
+}
+
